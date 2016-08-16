@@ -141,4 +141,4 @@ $ git commit -m "first post"
 $ git remote add origin https://github.com/username/jekyll_demo.git
 $ git push origin gh-pages
 ```
-访问: http://username.github.com/jekyll_demo/就可以看到Blog已经生成了
+访问: http://username.github.com/jekyll_demo/	就可以看到Blog已经生成了
