@@ -93,7 +93,7 @@ title: hello wfj
 　　　　|--　_layouts
 　　　　|　　　|--　default.html 
 　　　　|--　_posts
-　　　　|　　　|--　2012-08-25-hello-world.html
+　　　　|　　　|--　2016-08-16-hello-world.html
 ```
 
 
@@ -122,7 +122,7 @@ title: 我的Blog
 　　　　|--　_layouts
 　　　　|　　　|--　default.html 
 　　　　|--　_posts
-　　　　|　　　|--　2012-08-25-hello-world.html
+　　　　|　　　|--　2016-08-16-hello-world.html
 　　　　|--　index.html
 ```
 ##第六步，发布内容
